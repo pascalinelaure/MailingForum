@@ -1,4 +1,3 @@
-
 # MailingForum EN 
 
 	<p> MailingForum is an application for creating and managing mailings and forums. </p>
@@ -13,9 +12,9 @@
 
 	<p> A private mailing is a list where you registered only on invitation. When a user is connected, he sees public and private mailings he has registered to. </p>  
 
-	<p> A public forum is visible (name, description, threads) in the application wiithout being connected. However, in order to participate you must be connected and eventually submit an application by using your registered application profile. </ p> 
+	<p> A public forum is visible (name, description, threads) in the application wiithout being connected. However, in order to participate you must be connected and eventually submit an application by using your registered application profile. </p> 
 
-	<p> A private forum is subject to prior registration only on invitation. When a user is connected, he sees public and private forums  he has participated (automatic registration) or registered to. <p>  
+	<p> A private forum is subject to prior registration only on invitation. When a user is connected, he sees public and private forums  he has participated (automatic registration) or registered to. </p>  
  
 
 # MailingForum FR 
